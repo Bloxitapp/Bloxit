@@ -2,13 +2,13 @@
 
 # BLOXIT
 
-**BLOXIT** is a simple, powerful website and app blocker designed for focus, parental control, and digital well-being.  
+**BLOXIT** is a simple, powerful website blocker designed for focus, parental control, and digital well-being.  
 It helps users take control of their screen time by blocking addictive, harmful, or distracting content instantly.
 
 ---
 
 ### 🚀 Key Features
-- Block websites, apps, or entire categories (social, gaming, gambling, adult content)
+- Block websites, or entire categories (social, gaming, gambling, adult content)
 - Set timed or permanent blocks with password protection
 - Lightweight design and fast syncing with built-in VPN integration
 - Ideal for parents, students, and professionals
