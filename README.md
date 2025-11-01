@@ -24,7 +24,7 @@ See our [Privacy Policy](https://bloxitapp.github.io/Bloxit/privacy-policy) for 
 
 ### 🆘 Support
 Need help? Visit our [Support Page](https://bloxitapp.github.io/Bloxit/support)  
-or email **bloxitapp@gmail.com** — we usually respond within 48 hours.
+or email **contact.bloxi@gmail.com* — we usually respond within 48 hours.
 
 ---
 
