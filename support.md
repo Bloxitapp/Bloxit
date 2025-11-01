@@ -7,7 +7,7 @@ If you have any questions, feedback, or experience an issue, we’re here to hel
 ---
 
 ### 💬 Contact Support
-📧 **Email:** contact.bloxitp@gmail.com  
+📧 **Email:** contact.bloxit@gmail.com  
 🌐 **Privacy Policy:** [https://bloxitapp.github.io/Bloxit/privacy-policy](https://bloxitapp.github.io/Bloxit/privacy-policy)
 
 ---
